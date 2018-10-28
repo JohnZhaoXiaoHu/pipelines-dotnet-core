@@ -2,6 +2,18 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+# 自己编译的yaml后的状态信息
+
+
+![编译状态](https://dev.azure.com/ltm0911/pipelines-dotnet-core/_apis/build/status/ltm0203.pipelines-dotnet-core)
+
+![编译状态](
+https://dev.azure.com/ltm0911/pipelines-dotnet-core/_apis/build/status/ltm0203.pipelines-dotnet-core?branchName=master)
+
+[![Build Status](https://dev.azure.com/ltm0911/pipelines-dotnet-core/_apis/build/status/ltm0203.pipelines-dotnet-core)](https://dev.azure.com/ltm0911/pipelines-dotnet-core/_build/latest?definitionId=1)
+
+
+# 官方的分割线
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
